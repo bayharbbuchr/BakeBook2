@@ -1,0 +1,79 @@
+[
+  {
+    "id": 10,
+    "title": "Midnight Snack Toast by The Rock",
+    "ingredients": ["200g spaghetti","1/2 cup tomato sauce","1 garlic clove","1 tbsp olive oil"],
+    "directions": "Layer ingredients and toast lightly.",
+    "memory": "Learned from Grandma's kitchen.",
+    "tags": ["comfort-food","dessert","brunch"],
+    "cookTime": "39 minutes",
+    "photo": "/uploads/celebrity_placeholder.jpg",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Simple Chicken Stir Fry by Reese Witherspoon",
+    "ingredients": ["1 banana","2 tbsp peanut butter","1 tsp honey"],
+    "directions": "Mix thoroughly and bake at 350°F for 20 minutes.",
+    "memory": "The go-to recipe during a busy shoot.",
+    "tags": ["comfort-food","snack","celebrity-inspired"],
+    "cookTime": "36 minutes",
+    "photo": "/uploads/celebrity_placeholder.jpg",
+    "createdAt": "2024-01-04T00:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Midnight Snack Toast by Chrissy Teigen",
+    "ingredients": ["200g spaghetti","1/2 cup tomato sauce","1 garlic clove","1 tbsp olive oil"],
+    "directions": "Combine all ingredients and cook over medium heat until done.",
+    "memory": "The go-to recipe during a busy shoot.",
+    "tags": ["dessert","snack","breakfast"],
+    "cookTime": "16 minutes",
+    "photo": "/uploads/celebrity_placeholder.jpg",
+    "createdAt": "2024-01-07T00:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Simple Chicken Stir Fry by Snoop Dogg",
+    "ingredients": ["1 banana","2 tbsp peanut butter","1 tsp honey"],
+    "directions": "Sauté ingredients in a pan and serve hot.",
+    "memory": "Inspired by childhood weekends with family.",
+    "tags": ["weeknight-dinner","quick","holiday"],
+    "cookTime": "52 minutes",
+    "photo": "/uploads/celebrity_placeholder.jpg",
+    "createdAt": "2024-01-10T00:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Midnight Snack Toast by Stanley Tucci",
+    "ingredients": ["1 cup flour","2 eggs","1/2 cup milk","1 tsp salt"],
+    "directions": "Boil, stir, and enjoy with a garnish.",
+    "memory": "Inspired by childhood weekends with family.",
+    "tags": ["quick","comfort-food","snack"],
+    "cookTime": "13 minutes",
+    "photo": "/uploads/celebrity_placeholder.jpg",
+    "createdAt": "2024-01-13T00:00:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Midnight Snack Toast by Chrissy Teigen",
+    "ingredients": ["1 banana","2 tbsp peanut butter","1 tsp honey"],
+    "directions": "Sauté ingredients in a pan and serve hot.",
+    "memory": "Perfect for a cozy night in.",
+    "tags": ["comfort-food","breakfast","brunch"],
+    "cookTime": "60 minutes",
+    "photo": "/uploads/celebrity_placeholder.jpg",
+    "createdAt": "2024-01-16T00:00:00Z"
+  },
+  {
+    "id": 16,
+    "title": "Simple Chicken Stir Fry by Reese Witherspoon",
+    "ingredients": ["1 banana","2 tbsp peanut butter","1 tsp honey"],
+    "directions": "Mix thoroughly and bake at 350°F for 20 minutes.",
+    "memory": "A family favorite passed down for generations.",
+    "tags": ["comfort-food","snack","celebrity-inspired"],
+    "cookTime": "36 minutes",
+    "photo": "/uploads/celebrity_placeholder.jpg",
+    "createdAt": "2024-01-19T00:00:00Z"
+  }
+]

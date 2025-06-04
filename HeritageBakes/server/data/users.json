@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "username": "test",
+    "password": "$2b$10$1Ry0ZmtBeZP/ZX/nOYG67.s9.5FFSVMchWkyfl2QMvmk2JT6FAruy",
+    "createdAt": "2025-05-31T18:25:21.186Z",
+    "updatedAt": "2025-05-31T20:35:06.874Z"
+  },
+  {
+    "id": 2,
+    "username": "test2",
+    "password": "$2b$10$UlHbu01OvDWQkIapa/.cpOzNeHT0E1nBvHA9ucxuNZxdOeqPVjSlW",
+    "createdAt": "2025-05-31T18:25:59.231Z",
+    "updatedAt": "2025-06-03T20:04:16.003Z"
+  },
+  {
+    "id": 3,
+    "username": "test3",
+    "password": "$2b$10$gTMaFlQVydvGyfYjE4BLBuNbp45QVF.sIA8h3zoC4xwDdqexN3fIS",
+    "createdAt": "2025-05-31T18:32:09.738Z",
+    "updatedAt": "2025-06-01T00:48:58.669Z"
+  },
+  {
+    "id": 4,
+    "username": "test33",
+    "password": "$2b$10$41d4Zc7qfe2S3Q0liEXHjeLm5WQct0n3ty5E7BpLHswVBVqzCCvxW",
+    "createdAt": "2025-05-31T19:04:25.762Z",
+    "updatedAt": "2025-05-31T19:35:22.771Z"
+  },
+  {
+    "id": 5,
+    "username": "poop",
+    "password": "$2b$10$XCbhS9TeHmpqR3luKWi9euqKDHnDzvxFPv8o6xqiXnfqf0vB/03mW",
+    "createdAt": "2025-05-31T19:12:39.226Z",
+    "updatedAt": "2025-05-31T19:12:39.226Z"
+  },
+  {
+    "id": 6,
+    "username": "alice",
+    "password": "$2b$10$ihCa41dj/ijbXEHKjkwr0OheGSiBuUqrKSUkVmP7gHqMK2fSDKSIO",
+    "createdAt": "2025-05-31T19:21:15.422Z",
+    "updatedAt": "2025-05-31T19:32:59.011Z"
+  },
+  {
+    "id": 7,
+    "username": "bob",
+    "password": "$2b$10$f9M9lj9zfDaYJnrhJHqNDOxWgNFJ4gGq2c0cvDFzQQuZ2A3pviZHa",
+    "createdAt": "2025-05-31T19:21:15.475Z",
+    "updatedAt": "2025-05-31T19:32:59.065Z"
+  },
+  {
+    "id": 8,
+    "username": "test4",
+    "password": "$2b$10$k88N26LbIgGi5s0Wvr2rUuVxG3eIBR9zVQY2bYTOhBAF54GLdml7O",
+    "createdAt": "2025-05-31T19:58:51.468Z",
+    "updatedAt": "2025-05-31T20:35:16.968Z"
+  },
+  {
+    "id": 9,
+    "username": "matt",
+    "password": "$2b$10$zpgNSTP/mZ6YqV04w0fyg.gseKwVphgmHV7qsLyMoHFjqhWibvB9u",
+    "createdAt": "2025-05-31T21:06:57.141Z",
+    "updatedAt": "2025-05-31T21:06:57.141Z"
+  },
+  {
+    "id": 10,
+    "username": "matts",
+    "password": "$2b$10$tykeS0IPhb3o3Uj5fGw0Q.n6S8PhNAppf5ACiMDfUkTAxZ.uFCPOC",
+    "createdAt": "2025-06-01T18:10:23.651Z",
+    "updatedAt": "2025-06-01T18:10:23.651Z"
+  },
+  {
+    "id": 11,
+    "username": "dad",
+    "password": "$2b$10$ESv8IbOoHt72aDs/n/Nc/OOXkyctp88if7Zz24IdG8xyeymrUefLq",
+    "createdAt": "2025-06-01T18:12:59.417Z",
+    "updatedAt": "2025-06-01T18:12:59.417Z"
+  },
+  {
+    "id": 12,
+    "username": "mattschopfer79@gmail.com",
+    "password": "$2b$10$v3oTZe8v0etk6UK..SBrn.hWXwB2i2DBShpmO2CWYiw9TgxZIdS.G",
+    "createdAt": "2025-06-03T19:09:49.091Z",
+    "updatedAt": "2025-06-04T00:09:45.585Z"
+  },
+  {
+    "id": 13,
+    "username": "schopferj@aol.com",
+    "password": "$2b$10$psn7LQospM3GYfQiKaXTlumHOu2sNZRq3dLNGWbFKJRUF.wVLbm.C",
+    "createdAt": "2025-06-03T22:01:35.854Z",
+    "updatedAt": "2025-06-03T22:01:35.854Z"
+  }
+]

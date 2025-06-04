@@ -1,0 +1,120 @@
+[
+  {
+    "title": "grandmas poop",
+    "ingredients": [
+      "cup o poo"
+    ],
+    "directions": "poop it out",
+    "memory": "big OL Poop",
+    "photo": "/uploads/744740a7063afd9cb3d0eae8a1b4844b",
+    "tags": [
+      "main-dish"
+    ],
+    "cookTime": "as long as it takes",
+    "userId": 2,
+    "id": 1,
+    "createdAt": "2025-06-01T00:48:35.333Z",
+    "updatedAt": "2025-06-01T00:48:35.333Z"
+  },
+  {
+    "title": "guy fieri's balls",
+    "ingredients": [
+      "nacho cheese"
+    ],
+    "directions": "poo",
+    "memory": "http://localhost:5175",
+    "photo": "/uploads/1f7d1600524ad57dbdf3223a8c5b74c4",
+    "tags": [
+      "family-favorite"
+    ],
+    "cookTime": "1 min",
+    "userId": 3,
+    "id": 2,
+    "createdAt": "2025-06-01T00:49:55.714Z",
+    "updatedAt": "2025-06-01T00:49:55.714Z"
+  },
+  {
+    "title": "Me",
+    "ingredients": [
+      "Nice"
+    ],
+    "directions": "Nice",
+    "memory": null,
+    "photo": "/uploads/19c6ee7419b2feae3982ea5769cb403f",
+    "tags": [
+      "quick"
+    ],
+    "cookTime": "90m",
+    "userId": 12,
+    "id": 3,
+    "createdAt": "2025-06-03T21:30:06.316Z",
+    "updatedAt": "2025-06-03T21:30:06.316Z"
+  },
+  {
+    "title": "Ok",
+    "ingredients": [
+      "Test"
+    ],
+    "directions": "Test",
+    "memory": null,
+    "photo": "/uploads/c000effaa71eb60d4e4d3376946f9d7e",
+    "tags": [
+      "family-favorite"
+    ],
+    "cookTime": "Ok",
+    "userId": 12,
+    "id": 4,
+    "createdAt": "2025-06-03T21:45:04.209Z",
+    "updatedAt": "2025-06-03T21:45:04.209Z"
+  },
+  {
+    "title": "Yikes",
+    "ingredients": [
+      "Hdbd"
+    ],
+    "directions": "Jdnd",
+    "memory": null,
+    "photo": "/uploads/8e2d510218ea9a4fce8b74a69e21cb58",
+    "tags": [
+      "quick"
+    ],
+    "cookTime": "Bdbd",
+    "userId": 12,
+    "id": 5,
+    "createdAt": "2025-06-03T22:00:50.118Z",
+    "updatedAt": "2025-06-03T22:00:50.118Z"
+  },
+  {
+    "title": "Hi",
+    "ingredients": [
+      "Hi"
+    ],
+    "directions": "Hi",
+    "memory": "Hi",
+    "tags": [
+      "family-favorite"
+    ],
+    "cookTime": "Hi",
+    "userId": 12,
+    "id": 6,
+    "createdAt": "2025-06-03T22:08:29.803Z",
+    "updatedAt": "2025-06-03T22:08:29.803Z"
+  },
+  {
+    "title": "test",
+    "ingredients": [
+      "test"
+    ],
+    "directions": "test",
+    "memory": "test",
+    "photo": "/uploads/485a033540b2d925967b26dfc39d62c2",
+    "tags": [
+      "quick"
+    ],
+    "cookTime": "test",
+    "userId": 12,
+    "id": 7,
+    "createdAt": "2025-06-04T00:10:07.614Z",
+    "updatedAt": "2025-06-04T00:10:07.614Z"
+  }
+]
