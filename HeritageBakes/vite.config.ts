@@ -90,9 +90,9 @@ const pwaOptions: Partial<VitePWAOptions> = {
     suppressWarnings: true
   },
   registerType: 'autoUpdate',
-  strategies: 'injectManifest',
-  srcDir: 'src',
-  filename: 'serviceWorker.ts'
+  strategies: 'generateSW',
+  // srcDir: 'src',
+  // filename: 'serviceWorker.ts'
 };
 
 export default defineConfig({
