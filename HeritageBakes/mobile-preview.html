@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mobile Testing Instructions</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1 {
+      color: #d23669;
+      border-bottom: 2px solid #f0f0f0;
+      padding-bottom: 10px;
+    }
+    h2 {
+      color: #333;
+      margin-top: 30px;
+    }
+    .instruction-box {
+      background-color: #f9f9f9;
+      border-left: 4px solid #d23669;
+      padding: 15px;
+      margin: 20px 0;
+      border-radius: 4px;
+    }
+    code {
+      background-color: #f0f0f0;
+      padding: 2px 5px;
+      border-radius: 3px;
+      font-family: monospace;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    .button {
+      display: inline-block;
+      background-color: #d23669;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 4px;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+    .button:hover {
+      background-color: #b82d59;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mobile Testing Instructions</h1>
+  
+  <div class="instruction-box">
+    <p>To test the mobile responsiveness of the HeritageBakes application, follow these instructions:</p>
+  </div>
+  
+  <h2>Option 1: Use Browser Developer Tools (Recommended)</h2>
+  <ol>
+    <li>Open the application at <a href="http://localhost:5000" target="_blank">http://localhost:5000</a></li>
+    <li>Right-click anywhere on the page and select "Inspect" or press F12</li>
+    <li>Click on the "Toggle device toolbar" button (looks like a phone/tablet icon) or press Ctrl+Shift+M</li>
+    <li>Select a mobile device from the dropdown at the top of the viewport (e.g., iPhone X, Galaxy S9)</li>
+    <li>Test the responsive features by navigating through the application</li>
+  </ol>
+  
+  <h2>Option 2: Resize Browser Window</h2>
+  <ol>
+    <li>Open the application at <a href="http://localhost:5000" target="_blank">http://localhost:5000</a></li>
+    <li>Manually resize your browser window to be narrow (less than 640px wide)</li>
+    <li>Test the responsive features as the layout adapts to the smaller viewport</li>
+  </ol>
+  
+  <h2>Key Mobile Features to Test</h2>
+  <ul>
+    <li><strong>Mobile Navigation:</strong> The hamburger menu should appear and be functional on small screens</li>
+    <li><strong>Responsive Layout:</strong> Content should reflow to a single column on mobile</li>
+    <li><strong>Touch-friendly:</strong> All buttons and interactive elements should be large enough for touch</li>
+    <li><strong>Font Sizes:</strong> Text should be readable without zooming</li>
+    <li><strong>Forms:</strong> Input fields should be properly sized for mobile input</li>
+    <li><strong>Floating Action Button:</strong> The add recipe FAB should appear on mobile views</li>
+  </ul>
+  
+  <a href="http://localhost:5000" target="_blank" class="button">Open HeritageBakes App</a>
+</body>
+</html>
